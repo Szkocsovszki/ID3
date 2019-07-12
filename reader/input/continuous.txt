@@ -1,0 +1,9 @@
+﻿magasság;hajszín;szemszín;testsúly;osztály
+alacsony;szőke;kék;88;+
+magas;szőke;barna;22;-
+magas;vörös;kék;74;+
+alacsony;sötét;kék;100;-
+magas;sötét;kék;26;-
+magas;szőke;kék;63;+
+magas;sötét;barna;25;-
+alacsony;szőke;barna;96;-

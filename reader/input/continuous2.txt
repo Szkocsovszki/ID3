@@ -1,0 +1,9 @@
+﻿magasság;hajszín;szemszín;testsúly;osztály
+alacsony;szőke;kék;<=80;+
+magas;szőke;barna;>80;-
+magas;vörös;kék;<=80;+
+alacsony;sötét;kék;>80;-
+magas;sötét;kék;>80;-
+magas;szőke;kék;<=80;+
+magas;sötét;barna;>80;-
+alacsony;szőke;barna;>80;-

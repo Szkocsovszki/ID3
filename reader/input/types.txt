@@ -1,0 +1,4 @@
+magasság:discrete
+hajszín:discrete
+szemszín:discrete
+testsúly:continuous
